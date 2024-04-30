@@ -30,7 +30,3 @@ README.md: Documentation file providing information about the project.
 # Acknowledgements
 The dataset used in this project is obtained from TMDb (The Movie Database).
 This project is developed as a learning exercise and inspired by various online tutorials and resources.
-
-# License
-
-Feel free to customize the README according to your project specifics, such as adding more detailed usage instructions, project description, or acknowledgments.
